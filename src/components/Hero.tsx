@@ -165,7 +165,7 @@ export default function Hero() {
           {/* Mobile Avatar Image (Only visible on small screens) */}
           <div className="col-span-12 flex justify-center md:hidden mt-4 z-30">
             <img
-              src="/Shakib_avater.png"
+              src="/shakib_avater.png"
               alt="MD Shakib Al Hassan"
               className="w-28 sm:w-32 h-28 sm:h-32 object-cover object-top rounded-full border-4 border-white shadow-lg"
               onError={(e) => {
