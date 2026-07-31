@@ -77,7 +77,7 @@ export default function Footer() {
               <div className="absolute -top-24 md:-top-36 left-4 md:left-8 z-20">
                 <div className="w-20 h-20 md:w-24 md:h-24 rounded-full overflow-hidden border-4 border-[#a9dcf7] dark:border-neutral-900 bg-white shadow-xl transition-colors duration-300">
                   <img 
-                    src="/shakib_avater.png" 
+                    src="/sh_img5.png" 
                     alt="MD Shakib Al Hassan" 
                     className="w-full h-full object-cover"
                     onError={(e) => { e.currentTarget.style.display = "none"; }}
